@@ -1,1 +1,1 @@
-{"_default": {}, "loans": {}}
+{"_default": {}, "loans": {"36": {"inventoryNumber": "43", "shortname": "kuma", "status": "available", "timestamp": "30.04.2020 10:19:07"}, "37": {"inventoryNumber": "83", "shortname": "kuma", "status": "checked out", "timestamp": "30.04.2020 11:07:29"}}}

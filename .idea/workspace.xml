@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d20a15a-08e2-4c09-8711-2e47930ccd6f" name="Default Changelist" comment="" />
+    <list default="true" id="3d20a15a-08e2-4c09-8711-2e47930ccd6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devices.tinyDB" beforeDir="false" afterPath="$PROJECT_DIR$/devices.tinyDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcddisplay.py" beforeDir="false" afterPath="$PROJECT_DIR$/lcddisplay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans.tinyDB" beforeDir="false" afterPath="$PROJECT_DIR$/loans.tinyDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterscript.py" beforeDir="false" afterPath="$PROJECT_DIR$/masterscript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.tinyDB" beforeDir="false" afterPath="$PROJECT_DIR$/user.tinyDB" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IPA_Checkout_Station" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a1uAKsv0m8yV9CnnBEQxDz9An1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../13_IPA_Vorbereitungen/Source_code/IPA_Preparation" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -121,38 +129,62 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="3419" height="305" key="GridCell.Tab.0.bottom" timestamp="1588140685639">
+    <state x="1500" y="454" key="FileChooserDialogImpl" timestamp="1588151115308">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1500" y="454" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1588151115308" />
+    <state width="3419" height="305" key="GridCell.Tab.0.bottom" timestamp="1588237642650">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="2731" height="305" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1588078188794" />
-    <state width="3419" height="305" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1588140685639" />
-    <state width="3419" height="305" key="GridCell.Tab.0.center" timestamp="1588140685639">
+    <state width="3419" height="305" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1588237642650" />
+    <state width="3419" height="305" key="GridCell.Tab.0.center" timestamp="1588237642650">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="2731" height="305" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1588078188794" />
-    <state width="3419" height="305" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1588140685639" />
-    <state width="3419" height="305" key="GridCell.Tab.0.left" timestamp="1588140685639">
+    <state width="3419" height="305" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1588237642650" />
+    <state width="3419" height="305" key="GridCell.Tab.0.left" timestamp="1588237642650">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="2731" height="305" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1588078188794" />
-    <state width="3419" height="305" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1588140685639" />
-    <state width="3419" height="305" key="GridCell.Tab.0.right" timestamp="1588140685639">
+    <state width="3419" height="305" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1588237642650" />
+    <state width="3419" height="305" key="GridCell.Tab.0.right" timestamp="1588237642650">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="2731" height="305" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1588078188794" />
-    <state width="3419" height="305" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1588140685639" />
+    <state width="3419" height="305" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1588237642650" />
+    <state width="3419" height="492" key="GridCell.Tab.1.bottom" timestamp="1588163873280">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1588163873280" />
+    <state width="3419" height="492" key="GridCell.Tab.1.center" timestamp="1588163873280">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="492" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1588163873280" />
+    <state width="3419" height="492" key="GridCell.Tab.1.left" timestamp="1588163873280">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="492" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1588163873280" />
+    <state width="3419" height="492" key="GridCell.Tab.1.right" timestamp="1588163873280">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="492" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1588163873280" />
     <state x="885" y="198" key="SettingsEditor" timestamp="1587649157075">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="885" y="198" key="SettingsEditor/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1587649157075" />
-    <state x="1132" y="415" key="com.intellij.ide.util.TipDialog" timestamp="1587552628534">
-      <screen x="0" y="0" width="2752" height="1112" />
+    <state x="1415" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1588141117204">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1132" y="415" key="com.intellij.ide.util.TipDialog/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1587552628534" />
-    <state x="1415" y="523" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1586935201104" />
+    <state x="1415" y="523" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1588141117204" />
     <state x="327" y="174" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587731152385">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="327" y="174" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2752.1112/-1920.352.1280.680@0.0.2752.1112" timestamp="1587731152385" />
+    <state x="1291" y="435" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588163622646">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1291" y="435" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.3440.1400@0.0.3440.1400" timestamp="1588163622646" />
   </component>
 </project>
