@@ -11,9 +11,9 @@ from tinkerforge.bricklet_io16_v2 import BrickletIO16V2
 
 class Io16:
 
-    button_pressed_time = 500
+    button_pressed_time = 50
 
-    def __init__ (self, UID_IO16, ipcon: IPConnection, cb_button_pressed):
+    def __init__ (self, UID_IO16, ipcon: IPConnection, cb_button_pressed):  # init function with callback for buttons
         self.button = BrickletIO16V2(UID_IO16, ipcon)
         self.cb_button_pressed = cb_button_pressed
         self.button.register_callback(self.button.CALLBACK_INPUT_VALUE, cb_button_pressed)
@@ -30,4 +30,3 @@ class Io16:
         self.button_pressed_time
 
 
-    #def cb_input_value(channel, changed, value):
